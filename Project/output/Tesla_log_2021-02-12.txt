@@ -1,0 +1,17 @@
+### TSLA ###
+
+Loading raw tweets from 1 files:
+>> loading: 0.142 s
+
+Start processing 58229 raw tweets:
+>> text preprocessing: 74.397 s
+
+Start sentiment analysis on 58229 tweets:
+>> vader: 6.395 s
+>> nb_count: 0.958 s
+>> lr_tfidf: 0.969 s
+>> svm_w2v: 15.650 s
+>> bert: 962.759 s (cuda)
+>> majority: 16.227 s
+
+Sentiment analysis for TSLA completed! Total processing time: 18.0 min
