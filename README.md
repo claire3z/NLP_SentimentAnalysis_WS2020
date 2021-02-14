@@ -9,6 +9,6 @@ This project aims to apply various techniques from Natural Language Processing (
 
 Note: Due to size limitation, the following models are not uploaded in this repo:
 
-Word2Vec_news300_aggMean.pickle (3693 MB)
-bertbase_state.bin (423 MB)
+- Word2Vec_news300_aggMean.pickle (3693 MB)
+- bertbase_state.bin (423 MB)
 
