@@ -23,6 +23,6 @@ This project aims to apply various techniques from Natural Language Processing (
 
 
 *Note: Due to size limitation, the following pre-trained models are not uploaded in this repo but can be downloaded from Google Drive:*
-- Word2Vec_news300_aggMean.pickle (3693 MB) [download]()
+- Word2Vec_news300_aggMean.pickle (3693 MB) [download](https://drive.google.com/file/d/1cuCCnLlEGR4Zt3FO8w-_02S2AIWCOizQ/view?usp=sharing)
 - bertbase_state.bin (423 MB) [download](https://drive.google.com/file/d/1-7IR033323zz_t40ZlGXLu6YFIo81D_U/view?usp=sharing)
 
