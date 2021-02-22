@@ -12,10 +12,14 @@ This project aims to apply various techniques from Natural Language Processing (
 <img src="/Project/figures/pipeline_overview.png" height="70%" width="70%" >
 
 
+**Model Demo**
+
+<img src="/Project/figures/demo_output.png" height="40%" width="40%" >
+
 **Visualisaton of model ouptput**
 
-<img src="/Project/output/Tesla_vis_2021-02-12.png" height="60%" width="60%" >
-<img src="/Project/output/Tesla_price_prediction.png" height="60%" width="60%" >
+<img src="/Project/figures/Tesla_vis_2021-02-19.png" height="60%" width="60%" >
+<img src="/Project/figures/Tesla_price_prediction_2012-02-19.png" height="60%" width="60%" >
 
 
 *Note: Due to size limitation, the following pre-trained models are not uploaded in this repo but can be downloaded from Google Drive:*
